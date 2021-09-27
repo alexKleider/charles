@@ -1,0 +1,67 @@
+
+Assume all is paid up to just before the hours
+reflected in Invoice 1021
+
+    Invoice 1021 (upto June 4th)
+                Subtotal:  6117.50
+
+    June 6-18
+            Chls    46hrs   2990.00
+            R       48.5    1940
+                Subtotal:  4930.00
+  Payment June 14: 2500.00
+  Payment June 16: 2500.00
+  Payment June 17: 2500.00
+  Payment June 14: 2500.00
+  Payment June 30: 2430.00
+
+    June 21-July2
+            Chls    23.5    1527.50
+            R       40      1600.00
+                Subtotal:  3127.50
+  Payment July 06: 3127.50
+
+    July 5-9
+            Chls    28.5    1852.50
+            R       35      1400.00
+                Subtotal:  3252.50
+  Payment July 14: 3250.50
+
+    July 12-16
+            Chls    22      1430.00
+            R       28.5    1140.00
+                Subtotal:  2570.00
+  Payment July 24: 2570.00
+
+    July 19
+            Chls    7       455.00
+            R       7       280.00
+        28030
+            Chls    20.5    1332.50
+            R       22       880
+                Subtotal:  2947.50
+  Payment Aug 04: 2947.50
+
+    Aug 10 for 2-10
+            Chls    31.5    2047.50
+            R       33      1320.50
+                Subtotal:   3367.50
+
+    Aug 17 for 9-13
+            Chls    31.25   2031.25
+            R       34.25   1370.00
+                Subtotal:   3401.25
+                              Payment Aug 18: 3401.25
+            
+    Aug    for 16-20
+            Chls    12      780.00
+            R       17      680.00
+           for 23-27
+            Chls    21      1365.00
+            R       21.75    870.00
+                Subtotal:   3695.00
+
+    Aug 30-Sept 3
+            Chls    25.5    1657.50
+            R       28      1120.00
+                Subtotal:   2777.50
