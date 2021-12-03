@@ -4,62 +4,86 @@ are now being included in amount owing.
 
     Invoice ?1021? Feb 10..March10 (Hrs not submitted)
             Subtotal:   1430.00
+					Running total: 1,430.00
     Payment (ck) March 12: 1430.00
+					Running total: 0.00
 
     Invoice ?  March 11..March 22 (Hrs not submitted)
             Subtotal:   2137.50
+					Running total: 2,137.50
     Payment (ck) March 26: 2137.50
+					Running total: 0.00
 
     Invoice ?  March 29..April 8 (Hrs not submitted)
             Subtotal: 2827.50
+					Running total: 2,827.50
     Payment (ck) April 09:  2827.50
+					Running total: 0.00
 
     Invoice ?  Dates not available, (Hrs not submitted)
             Subtotal: 3010.00
+					Running total: 3,010.00
     Payment April 26: 2500.00
+					Running total: 510.00
     Payment April 27: 1510.00
+					Running total: -1,000.00
 
     Invoice ? April 23 .. May 7 
         Chls    46.5Hrs  3022.50
             Subtotal: 3022.50
+					Running total: 2,022.50
     Also billed $615.20 for "supplies"???
     Request receipts and explanation
     Payment May 12: 2637.00
+					Running total: -614.50
 
     Invoice 1021 May 8.. June 4
         Chls    85.5hrs 5557.50
         R       14       560.00
        [Request deposit 2100.00]
             Subtotal:   6117.50
+					Running total: 5,503.00
 
 
     June 6-18
             Chls    46hrs   2990.00
             R       48.5    1940
             Subtotal:  4930.00
+					Running total: 10,433.00
   Payment June 14: 2500.00
+					Running total: 7,933.00
   Payment June 16: 2500.00
+					Running total: 5,433.00
   Payment June 17: 2500.00
+					Running total: 2,933.00
   Payment June 14: 2500.00
+					Running total: 433.00
   Payment June 30: 2430.00
+					Running total: -1,997.00
 
     June 21-July2
             Chls    23.5    1527.50
             R       40      1600.00
             Subtotal:  3127.50
+					Running total: 1,130.50
   Payment July 06: 3127.50
+					Running total: -1,997.00
 
     July 5-9
             Chls    28.5    1852.50
             R       35      1400.00
             Subtotal:  3252.50
+					Running total: 1,255.50
   Payment July 14: 3250.50
+					Running total: -1,995.00
 
     July 12-16
             Chls    22      1430.00
             R       28.5    1140.00
             Subtotal:  2570.00
+					Running total: 575.00
   Payment July 24: 2570.00
+					Running total: -1,995.00
 
     July 19
             Chls    7       455.00
@@ -68,18 +92,23 @@ are now being included in amount owing.
             Chls    20.5    1332.50
             R       22       880
             Subtotal:  2947.50
+					Running total: 952.50
   Payment Aug 04: 2947.50
+					Running total: -1,995.00
 
     Aug 10 for 2-10?
             Chls    31.5    2047.50
             R       33      1320.50
             Subtotal:   3367.50
+					Running total: 1,372.50
 
     Aug 17 for 9-13?
             Chls    31.25   2031.25
             R       34.25   1370.00
             Subtotal:   3401.25
+					Running total: 4,773.75
   Payment Aug 18: 3401.25
+					Running total: 1,372.50
             
     Aug    for 16-20?
             Chls    12      780.00
@@ -88,6 +117,7 @@ are now being included in amount owing.
             Chls    21      1365.00
             R       21.75    870.00
             Subtotal:   3695.00
+					Running total: 5,067.50
 
     Aug 30-Sept 3
             Chls    25.5    1657.50
@@ -95,6 +125,7 @@ are now being included in amount owing.
     changed to
             R       25.5    1020.00
             Subtotal:   2677.50
+					Running total: 7,745.00
 
     Sept 6..10 (Hrs not submitted) 3633.75
 
@@ -102,8 +133,54 @@ are now being included in amount owing.
             Chls    40.5    2632.50
             R *     40.5    1620.00
             Subtotal:   4252.50
+					Running total: 11,997.50
 
 * Foot Note
     It was made clear that "R" was not to work unsupervised so his
     hours in the places marked by the asterix ("*") have been
     decreased to match those of Charles.
+
+
+
+	RECONNING
+	=========
+
+		Invoices:
+			1,430.00
+			2,137.50
+			2,827.50
+			3,010.00
+			3,022.50
+			6,117.50
+			4,930.00
+			3,127.50
+			3,252.50
+			2,570.00
+			2,947.50
+			3,367.50
+			3,401.25
+			3,695.00
+			2,677.50
+			4,252.50
+		Total billed: 52,766.25
+
+		Payments:
+			-1,430.00
+			-2,137.50
+			-2,827.50
+			-2,500.00
+			-1,510.00
+			-2,637.00
+			-2,500.00
+			-2,500.00
+			-2,500.00
+			-2,500.00
+			-2,430.00
+			-3,127.50
+			-3,250.50
+			-2,570.00
+			-2,947.50
+			-3,401.25
+		Total paid: -40,768.75
+
+	Outstanding balance: $11,997.50
