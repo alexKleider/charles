@@ -2,11 +2,13 @@
 
 # File: process.py
 
+data = 'account.txt'
+
 owed = 0
 billed = []
 paid = 0
 payments = []  # negative values
-with open('account.txt', 'r') as stream:
+with open(data, 'r') as stream:
     for original_line in stream:
         line = original_line.strip()
         parts = line.split(":")
